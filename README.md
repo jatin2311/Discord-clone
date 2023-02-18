@@ -19,9 +19,9 @@
 > This project take about 2-3 hours complete.
 # Demo Images
 
-- ![](https://github.com/jatin2311/Discord-clone/blob/main/assets/demo/3.png)
-- ![](https://github.com/jatin2311/Discord-clone/blob/main/assets/demo/4.png)
-- ![](https://github.com/jatin2311/Discord-clone/blob/main/assets/demo/5.png)
+- ![](https://github.com/jatin2311/Discord-clone/blob/main/assets/demo/3.jpg)
+- ![](https://github.com/jatin2311/Discord-clone/blob/main/assets/demo/4.jpg)
+- ![](https://github.com/jatin2311/Discord-clone/blob/main/assets/demo/5.jpg)
 - ![](https://github.com/jatin2311/Discord-clone/blob/main/assets/demo/1.png)
 - ![](https://github.com/jatin2311/Discord-clone/blob/main/assets/demo/2.png)
 
