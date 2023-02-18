@@ -1,8 +1,9 @@
 tailwind.config = {
   theme: {
     extend: {
-      colors: {
-        clifford: "#da373d",
+      colors: {},
+      backgroundImage: {
+        "header-bg": "url('./assets/header-bg.svg')",
       },
     },
   },
