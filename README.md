@@ -4,7 +4,7 @@
 
 - ![](https://img.shields.io/badge/frontend-HTML-%23B4161B)
 - ![](https://img.shields.io/badge/Css-Tailwind-%23383CC1)
-- ![](https://img.shields.io/badge/Tech-Vanilla JS-%233DBE29)
+- ![](https://img.shields.io/badge/Tech-VanillajS-%233DBE29)
 
 # About
 
